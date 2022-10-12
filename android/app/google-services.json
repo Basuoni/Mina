@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "347181557577",
+    "project_id": "shopping-cbb68",
+    "storage_bucket": "shopping-cbb68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347181557577:android:81a326bcb8a12afa1a1c98",
+        "android_client_info": {
+          "package_name": "com.example.mina_albaba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347181557577-cjcg7bdjqqa8l593daegp7hm49r181dr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mina_albaba",
+            "certificate_hash": "a4a13b85d4b571c3b0382bfa5fa32d2f308ce037"
+          }
+        },
+        {
+          "client_id": "347181557577-7e2fva7v0nfa6netkjg94erso6r8fiv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGp2vUK2QcrM33K-kZDdwo-6kc8fBXIJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347181557577-7e2fva7v0nfa6netkjg94erso6r8fiv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
